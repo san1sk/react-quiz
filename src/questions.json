@@ -1,0 +1,52 @@
+[
+  {
+      "question": "What does HTML stand for?",
+      "options": ["Hyper Text Markup Language", "Home Tool Markup Language", "Hyperlinks and Text Markup Language", "Hyper Tool Markup Language"],
+      "answer": "Hyper Text Markup Language"
+  },
+  {
+      "question": "Which HTML element is used to define the title of a document?",
+      "options": ["<head>", "<title>", "<meta>", "<body>"],
+      "answer": "<title>"
+  },
+  {
+      "question": "What is the correct CSS syntax to change the background color to blue?",
+      "options": ["body {background-color: blue;}", "body:color=blue;", "background-color: blue;", "body {background: blue;}"],
+      "answer": "body {background-color: blue;}"
+  },
+  {
+      "question": "Which property is used to change the font of an element in CSS?",
+      "options": ["font-family", "font-style", "font-weight", "font-size"],
+      "answer": "font-family"
+  },
+  {
+      "question": "What does CSS stand for?",
+      "options": ["Creative Style Sheets", "Cascading Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+      "answer": "Cascading Style Sheets"
+  },
+  {
+      "question": "Which HTML tag is used to define an unordered list?",
+      "options": ["<ol>", "<ul>", "<li>", "<list>"],
+      "answer": "<ul>"
+  },
+  {
+      "question": "Which HTML attribute is used to define inline styles?",
+      "options": ["class", "style", "font", "styles"],
+      "answer": "style"
+  },
+  {
+      "question": "How do you insert a comment in CSS?",
+      "options": ["// this is a comment", "/* this is a comment */", "// this is a comment //", "<!-- this is a comment -->"],
+      "answer": "/* this is a comment */"
+  },
+  {
+      "question": "Which JavaScript function is used to write content into an alert box?",
+      "options": ["alert()", "message()", "alertBox()", "msg()"],
+      "answer": "alert()"
+  },
+  {
+      "question": "Which HTML element is used to define a paragraph?",
+      "options": ["<p>", "<par>", "<pg>", "<paragraph>"],
+      "answer": "<p>"
+  }
+]
